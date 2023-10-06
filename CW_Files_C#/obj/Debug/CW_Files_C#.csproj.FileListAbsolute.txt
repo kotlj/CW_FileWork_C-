@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\CW_Files_C#\CW_Files_C#\bin\Debug\CW_Files_C#.exe.config
+C:\Users\Admin\source\repos\CW_Files_C#\CW_Files_C#\bin\Debug\CW_Files_C#.exe
+C:\Users\Admin\source\repos\CW_Files_C#\CW_Files_C#\bin\Debug\CW_Files_C#.pdb
+C:\Users\Admin\source\repos\CW_Files_C#\CW_Files_C#\obj\Debug\CW_Files_C#.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CW_Files_C#\CW_Files_C#\obj\Debug\CW_Files_C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\CW_Files_C#\CW_Files_C#\obj\Debug\CW_Files_C#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CW_Files_C#\CW_Files_C#\obj\Debug\CW_Files_C#.exe
+C:\Users\Admin\source\repos\CW_Files_C#\CW_Files_C#\obj\Debug\CW_Files_C#.pdb
